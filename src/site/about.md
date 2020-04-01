@@ -1,33 +1,22 @@
 ---
-title: Get Yours
+title: About Trapped Signal📶
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
 ---
 
-## Hosting
+## We're all alone in this, together.
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+Life has changed for all of us, dramatically and at shocking speed.
 
-<div class="nakedLink">
+We're all just trying to figure it out and make it to the next day.
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+And at the same time, we're all isolated from each other. Meetups and conferences are cancelled. Public social spaces are closed.
 
-</div>
+So how can we feel connected to a broader community?
 
-## One-click deploy
+It starts by remembering that our burden is shared. Every one of us is struggling with many things in our new (hopefully very temporary) reality.
 
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+So let's acknowledge it. Let's talk about it. Let's hear from other people who are in the same boat. Let's offer each other strength.
 
-<div class="nakedLink">
+We can do this.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+[Start listening at Episode 1](/posts/1)
