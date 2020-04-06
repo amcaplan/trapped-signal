@@ -4,7 +4,7 @@ subtitle: Because we're frantically trying to maintain our families, jobs, and s
 layout: layouts/base.njk
 ---
 
-{%- for page in collections.post -%}
+{%- for page in collections.episode -%}
 <a href="{{ page.url }}">
   <div>
     <h2>{{page.data.title}}</h2><time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>

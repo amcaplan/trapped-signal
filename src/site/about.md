@@ -19,4 +19,4 @@ So let's acknowledge it. Let's talk about it. Let's hear from other people who a
 
 We can do this.
 
-[Start listening at Episode 1](/posts/1)
+[Start listening at Episode 1](/episodes/1)

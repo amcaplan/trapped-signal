@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-pageClass: posts
+pageClass: episodes
 templateEngineOverride: njk, md
 ---
 
