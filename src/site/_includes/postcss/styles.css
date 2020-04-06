@@ -1,5 +1,6 @@
 @import '_variables.css';
 @import '_syntax.css';
+@import 'custom.css';
 
 * {
   margin: 0;
