@@ -9,9 +9,12 @@ templateEngineOverride: njk, md
 </p>
 <main>
   {{ content | safe }}
+  {{ guests }} discuss {{description}}
+  <iframe src="https://anchor.fm/trapped-signal/embed/episodes/{{ anchorLink}}" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
   <div class="footnote">
     <p>
-      <a href="/">Back to All Posts</a>
+      <a href="/">Back to All Episodes</a>
     </p>
   </div>
 </main>

@@ -8,7 +8,7 @@ layout: layouts/base.njk
 <a href="{{ page.url }}">
   <div>
     <h2>{{page.data.title}}</h2><time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-    <p>{{page.data.description}}</p>
+    <p>{{ page.data.guests }} discuss {{page.data.description}}</p>
   </div>
 </a>
 {%- endfor -%}
