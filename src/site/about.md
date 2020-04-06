@@ -20,3 +20,5 @@ So let's acknowledge it. Let's talk about it. Let's hear from other people who a
 We can do this.
 
 [Start listening at Episode 1](/episodes/1)
+
+P.S. Our intro song is Turbo Tornado by Admiral Bob, used under the Creative Commons 3.0 license.
