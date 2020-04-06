@@ -1,5 +1,6 @@
 ---
 title: About Trapped Signal📶
+description: About Trapped Signal
 layout: layouts/base.njk
 ---
 
